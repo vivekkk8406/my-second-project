@@ -2,6 +2,11 @@
 
 A responsive one-page personal portfolio for **Vivek**, an aspiring software engineer and Computer Science Engineering student. The page presents a short introduction, skills, education, internship experience, strengths, contact details, and a personal photograph.
 
+## Links
+
+- [Live website](https://vivekkk8406.github.io/my-second-project/personnel1.html)
+- [Project file on Google Drive](https://drive.google.com/file/d/1fs196xnKAW9oc27m4gpJbkBCy0KcsT5-/view?usp=drive_link)
+
 ## Run the project
 
 1. Clone or download this repository.
